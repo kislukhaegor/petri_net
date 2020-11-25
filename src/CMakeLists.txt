@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(petri_net_example main.cpp petri_net.cpp petri_net_base.cpp)
